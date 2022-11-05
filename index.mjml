@@ -1,0 +1,228 @@
+<mjml>
+   <mj-head>
+      <mj-title>M1 Travel Promotional Email</mj-title>
+      <mj-attributes>
+         <mj-all font-family="Arial" />
+      </mj-attributes>
+      <mj-style>
+         @media all and (max-width: 480px) {
+            .align div {
+               text-align: center!important;
+            }
+         }
+      
+      </mj-style>
+   </mj-head>
+
+   <mj-body background-color="#e2e2e2">
+
+      <mj-section padding="0" background-color="#ffffff">
+         <mj-column width="600px">
+            <mj-image src="https://i.ibb.co/Qchz8ww/banner.png" alt="M1 Data PassPort - 10 Breathtaking Destinations To Usher in 2023, Ring in the New Year and celebrate in some of the world's most awe-inspiring places." padding="0" />
+         </mj-column>
+      </mj-section>
+
+      <mj-wrapper background-color="#ffffff" padding="0">
+         
+      <!-- Austria -->
+      <mj-section padding-top="50px">
+         <mj-column padding="0px">
+            <mj-image src="https://i.ibb.co/12wTSZ7/place-australia.png" alt="A city in Austria" width="250px" height="220px" padding="0" />
+         </mj-column>
+         <mj-column padding="0px" width="300px">
+            <mj-text  font-family="Arial" padding-top="0" padding-bottom="0"  padding-left="20px" padding-right="20px" css-class="align" >
+               <p style="color:#ef663b; font-size:20px;font-weight:bold;"><strong>AUSTRIA</strong></p>
+            
+               <p style="color:#555555; font-size:17px; line-height:20px;"> There's definitely never a dull moment when you celebrate the New Year in Austria. All church bells ring at the stroke of midnight and the Austrian annual New Year tradition begins, which includes festive concert repertoires and magical fireworks displays. </p>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+      <!-- Thailand -->
+      <mj-section padding-top="40px">
+         <mj-column padding="0px">
+            <mj-image src="https://i.ibb.co/ZMjJqvT/place-thailand.png" alt="A city in Thailand" width="250px" height="220px" padding="0" />
+         </mj-column>
+         <mj-column padding="0px" width="300px">
+            <mj-text  font-family="Arial" padding-top="0" padding-bottom="0"  padding-left="20px" padding-right="20px" css-class="align" >
+               <p style="color:#4cb2b1; font-size:20px;font-weight:bold;"> <strong> THAILAND</strong></p>
+            
+               <p style="color:#555555; font-size:17px; line-height:20px;"> There's definitely never a dull moment when you celebrate the New Year in Austria. All church bells ring at the stroke of midnight and the Austrian annual New Year tradition begins, which includes festive concert repertoires and magical fireworks displays. </p>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+      <!-- Indonesia -->
+      <mj-section padding-top="40px" background-color="#ffffff">
+         <mj-column padding="0px">
+            <mj-image src="https://i.ibb.co/Q6pjKmT/place-indonesia.png" alt="A city in Indonesia" width="250px" height="220px" padding="0" />
+         </mj-column>
+         <mj-column padding="0px" width="300px">
+            <mj-text  font-family="Arial" padding-top="0" padding-bottom="0"  padding-left="20px" padding-right="20px" css-class="align" >
+               <p style="color:#ef663b; font-size:20px;font-weight:bold;"><strong>INDONESIA</strong></p>
+            
+               <p style="color:#555555; font-size:16px; line-height:20px;"> If you want to usher in the New Year with some relaxation, Indonesia is the best place to go. Escape the busy city life and decompress at the country's gorgeous beaches, quiet mountainsides, or spa and yoga retreats.
+</p>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+      <!-- Germany -->
+      <mj-section padding-top="40px" background-color="#ffffff">
+         <mj-column padding="0px">
+            <mj-image src="https://i.ibb.co/NS0w2nr/place-germany.png" alt="A city in Germany" width="250px" height="220px" padding="0" />
+         </mj-column>
+         <mj-column padding="0px" width="300px">
+            <mj-text  font-family="Arial" padding-top="0" padding-bottom="0"  padding-left="20px" padding-right="20px" css-class="align" >
+               <p style="color:#4cb2b1; font-size:20px;font-weight:bold;"><strong>GERMANY</strong></p>
+            
+               <p style="color:#555555; font-size:16px; line-height:20px;"> Feast over delicious meals, get lucky charms and clink your champagne glasses just like the Germans do during New Year's Eve. When it comes to fun and memorable celebrations like this, Germany is definitely a destination you shouldn't miss. </p>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+      <!-- South Korea-->
+      <mj-section padding-top="40px" background-color="#ffffff">
+         <mj-column padding="0px">
+            <mj-image src="https://i.ibb.co/55fjvQV/place-south-korea.png" alt="A city in South Korea" width="250px" height="220px" padding="0" />
+         </mj-column>
+         <mj-column padding="0px" width="300px">
+            <mj-text  font-family="Arial" padding-top="0" padding-bottom="0"  padding-left="20px" padding-right="20px" css-class="align" >
+               <p style="color:#ef663b; font-size:20px;font-weight:bold;"><strong>SOUTH KOREA</strong></p>
+            
+               <p style="color:#555555; font-size:16px; line-height:20px;"> Discover Korea's East Sea where most people visit and witness the first sunrise of the year. Immerse yourself in Korea's mouthwatering cuisine and fascinating culture during the day and party the night away at Seoul's bustling and extravagant nightlife</p>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+      <!-- Spain -->
+      <mj-section padding-top="40px" background-color="#ffffff">
+         <mj-column padding="0px">
+            <mj-image src="https://i.ibb.co/bBhKpH0/place-spain.png" alt="A city in Spain" width="250px" height="220px" padding="0" />
+         </mj-column>
+         <mj-column padding="0px" width="300px">
+            <mj-text  font-family="Arial" padding-top="0" padding-bottom="0"  padding-left="20px" padding-right="20px" css-class="align" >
+               <p style="color:#4cb2b1; font-size:20px;font-weight:bold;">SPAIN</p>
+            
+                           <p style="color:#555555; font-size:16px; line-height:20px;"> 
+            In Spain, the New Year celebrations start as early as December 31. The streets are filled with people and music, but if you're looking for a huge party, visit the famous Puerta del Sol Square in Madrid where it turns into a large festivity once the clock strikes twelve.</p>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+      <!-- UK -->
+      <mj-section padding-top="40px" background-color="#ffffff">
+         <mj-column padding="0px">
+            <mj-image src="https://i.ibb.co/524mQHF/place-united-kingdom.png" alt="A city in the UK" width="250px" height="220px" padding="0" />
+         </mj-column>
+         <mj-column padding="0px" width="300px">
+            <mj-text  font-family="Arial" padding-top="0" padding-bottom="0"  padding-left="20px" padding-right="20px" css-class="align" >
+               <p style="color:#ef663b; font-size:20px;font-weight:bold;">UNITED KINGDOM</p>
+            
+               <p style="color:#555555; font-size:16px; line-height:20px;"> During New Year's Eve, pubs and restaurants all over the UK gear up for parties that last until dawn. The next afternoon, more than 10,000 performers from all over the world will gather for a massive New Year's Day parade in London.</p>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+      <!-- Australia -->
+      <mj-section padding-top="40px" background-color="#ffffff">
+         <mj-column padding="0px">
+            <mj-image src="https://i.ibb.co/12wTSZ7/place-australia.png" alt="A city in Austria" width="250px" height="220px" padding="0" />
+         </mj-column>
+         <mj-column padding="0px" width="300px">
+            <mj-text  font-family="Arial" padding-top="0" padding-bottom="0"  padding-left="20px" padding-right="20px" css-class="align" >
+               <p style="color:#4cb2b1; font-size:20px;font-weight:bold;"><strong>AUSTRALIA</strong></p>
+            
+               <p style="color:#555555; font-size:16px; line-height:20px;"> Gather with more than one million people over Sydney Harbour and watch the spectacular annual fireworks display. It's so extraordinary that is also anticipated by people from all over the world as well. </p>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+      <!-- New Zealand -->
+      <mj-section padding-top="40px" background-color="#ffffff">
+         <mj-column padding="0px">
+            <mj-image src="https://i.ibb.co/kqRwr5v/place-new-zealand.png" alt="A city in Austria" width="250px" height="220px" padding="0" />
+         </mj-column>
+         <mj-column padding="0px" width="300px">
+            <mj-text  font-family="Arial" padding-top="0" padding-bottom="0"  padding-left="20px" padding-right="20px" css-class="align" >
+               <p style="color:#ef663b; font-size:20px;font-weight:bold;">NEW ZEALAND</p>
+            
+               <p style="color:#555555; font-size:17px; line-height:20px;"> Experience the best outdoor celebration only at New Zealand Witness the splendour of nature as you ring in 2018 in some of the country's best camping festivals such as Rhythm & Vines, Northern Bass, Rhythm & Alps, and Highlife NYD Experience. </p>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+      <!-- Philipphines -->
+      <mj-section padding-top="40px" padding-bottom="0" background-color="#ffffff">
+         <mj-column padding="0px">
+            <mj-image src="https://i.ibb.co/xqpqfHk/place-philippines.png" alt="A city in the philippines" width="250px" height="220px" padding="0" />
+         </mj-column>
+         <mj-column padding="0px" width="300px">
+            <mj-text  font-family="Arial" padding-top="0" padding-bottom="0"  padding-left="20px" padding-right="20px" css-class="align" >
+               <p style="color:#4cb2b1; font-size:20px;font-weight:bold;"><strong>PHILIPPINES</strong></p>
+            
+               <p style="color:#555555; font-size:17px; line-height:20px;"> In the Philippines, Filipinos go all out during New Year's Eve celebrations. From the endless array of food, firecrackers that come in various shapres and sizes, to interesting traditions, welcoming 2018 in the Pearl of the Orient Seas is definitely a must-try.</p>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+      <mj-section padding="0">
+         <mj-column padding-top="60px">
+            <mj-image src="https://i.ibb.co/PtYt7f3/cloud.png" alt="cloud"  align="left" padding="0" width="600px"/>
+         </mj-column>
+      </mj-section>
+
+   </mj-wrapper>
+
+      <!-- Footer -->
+      <mj-section padding-top="20px" background-color="#7acecc">
+         <mj-column width="550px">
+            <mj-text font-family="Arial" color="#ffffff" align="center">
+               <p style="font-size:22px; text-trandform:uppercase;"> <strong> THERE'S NO BETTER WAY TO WELCOME
+THE NEW YEAR THAN TO CREATE
+EXTRAORDINARY MEMORIES.</strong></p>
+            <p style="font-size:16px; color:f3f3f3; line-height:22px;">Spontaneously share photos or videos of your wonderful celebrations
+overseas with your loved ones with <a href="www.example.com" style="color:#f3f3f3; text-decoration:underline;">M1 Data Passport.</a> Roam overseas with
+your local data bundle in 56 destinations across Asia, Europe and the United
+States of America, with a monthly subscription from just $10/month per
+destination! Try out <a href="www.example.com" style="color:#f3f3f3; text-decoration:underline;">M1 Data Passport.</a> today.</p>
+            </mj-text>
+         </mj-column>
+      </mj-section>
+      <!-- Icons -->
+      <mj-section  padding="0" background-color="#7acecc">
+         <mj-column width="150px" padding="0">
+            <mj-image src="https://i.ibb.co/5Fg9Fwb/icon-phone-check.png" alt="A hand holding on to a phone" width="91px" height="91px" />
+            <mj-text font-size="12px" font-family="Arial" align="center" color="#ffffff" line-height="16px">
+               EASY ACTIVATION BEFORE OR DURING YOUR TRIP
+            </mj-text>
+         </mj-column>
+         <mj-column width="150px">
+            <mj-image src="https://i.ibb.co/b13H1C9/icon-lock.png" alt="Icon lock" width="91px" height="91px" />
+            <mj-text font-size="12px" font-family="Arial" align="center" color="#ffffff" line-height="16px">
+               NO BILL SHOCK
+               WITH
+               NETWORK LOCK
+            </mj-text>
+         </mj-column>
+         <mj-column width="150px">
+            <mj-image src="https://i.ibb.co/jTTFc11/icon-phone-m1.png" alt="A hand holding ;on to a phone" width="91px" height="91px" />
+            <mj-text font-size="12px" font-family="Arial" align="center" color="#ffffff" line-height="16px">
+               KEEP TRACK
+               OF DATA
+               PASSPORT USAGE
+            </mj-text>
+         </mj-column>
+         <mj-column width="150px">
+            <mj-image src="https://i.ibb.co/54QCgj2/icon-people.png" alt="Many people om a queue" width="91px" height="91px" />
+            <mj-text font-size="12px" font-family="Arial" align="center" color="#ffffff" line-height="16px">
+               NO STANDING
+               IN LINE
+               FOR LOCAL SIM
+            </mj-text>
+         </mj-column>
+      </mj-section>
+
+      <mj-section background-color="#7acecc">
+         <mj-column width="550px">
+            <mj-image href="www.example.com" src="https://i.ibb.co/CKXYDRD/btn-sign-up-today.png" alt="sign up image button" align="center" />
+            <mj-text color="#ffffff" align="center" font-size="13px" font-family="Arial">
+               If you wish to unsubscribe from our mailing list,  <a href="www.example.com" style="color:#f2f2f2; text-decoration:underline;"> click here</a>
+            </mj-text>
+         </mj-column>
+      
+      </mj-section>
+   </mj-body>
+
+</mjml>
